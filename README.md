@@ -1,0 +1,1 @@
+# Exemplo de WebApi com .NetCore e vscode feito no Ubunto 18
