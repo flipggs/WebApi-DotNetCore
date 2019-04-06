@@ -1,1 +1,1 @@
-# Exemplo de WebApi com .NetCore e vscode feito no Ubunto 18
+# Exemplo de WebApi com .NetCore e vscode feito no Ubuntu 18
