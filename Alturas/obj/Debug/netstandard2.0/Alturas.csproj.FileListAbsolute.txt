@@ -1,0 +1,9 @@
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/bin/Debug/netstandard2.0/Alturas.deps.json
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/bin/Debug/netstandard2.0/Alturas.dll
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/bin/Debug/netstandard2.0/Alturas.pdb
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/obj/Debug/netstandard2.0/Alturas.csprojAssemblyReference.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/obj/Debug/netstandard2.0/Alturas.csproj.CoreCompileInputs.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfoInputs.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/obj/Debug/netstandard2.0/Alturas.AssemblyInfo.cs
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/obj/Debug/netstandard2.0/Alturas.dll
+/home/flipggs/Documents/developer/WebApi-DotNetCore/Alturas/obj/Debug/netstandard2.0/Alturas.pdb
