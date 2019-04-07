@@ -1,0 +1,17 @@
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.deps.json
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.json
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.runtimeconfig.dev.json
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.dll
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/APIAlturas.pdb
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.dll
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/bin/Debug/netcoreapp2.2/Alturas.pdb
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csprojAssemblyReference.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CoreCompileInputs.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorAssemblyInfo.cs
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfoInputs.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.AssemblyInfo.cs
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.RazorTargetAssemblyInfo.cache
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.csproj.CopyComplete
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.dll
+/home/flipggs/Documents/developer/WebApi-DotNetCore/APIAlturas/obj/Debug/netcoreapp2.2/APIAlturas.pdb
